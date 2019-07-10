@@ -1,1 +1,1 @@
-# C---Codif.-de-msjs-en-archivos
+# C++ - Codificación y decodificación de mensajes en archivos.
